@@ -1,0 +1,23 @@
+html {
+    font-size: 14px;
+}
+  
+.nav {
+    background-color: #b34848;
+}
+  
+h1, h2, h3, h4, h5, h6 {
+    color: #b34848;
+}
+
+h2 a,
+h2 a:hover  {
+    text-decoration: none;
+    text-decoration: underline;
+    color: #b34848;
+}
+
+/* h2 a {
+    color: #b34848;
+}
+ */
